@@ -1,2 +1,2 @@
 # Herbal
-Herbal Webblog website interface layout
+Click https://setfolder.github.io/Herbal/ for preview.
